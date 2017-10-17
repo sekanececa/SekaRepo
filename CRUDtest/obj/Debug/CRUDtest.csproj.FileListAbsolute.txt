@@ -1,0 +1,190 @@
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\ApplicationInsights.config
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\csc.exe
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\vbc.exe
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\CRUDtest.dll.config
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\CRUDtest.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\CRUDtest.pdb
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Antlr3.Runtime.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\EntityFramework.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\EntityFramework.SqlServer.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.Web.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Newtonsoft.Json.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Owin.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Net.Http.Formatting.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Helpers.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.Owin.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.WebHost.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Mvc.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Optimization.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Razor.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.WebPages.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\WebGrease.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.Web.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Newtonsoft.Json.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Net.Http.Formatting.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Helpers.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.WebHost.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Mvc.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Optimization.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Razor.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.WebPages.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Antlr3.Runtime.pdb
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\EntityFramework.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\EntityFramework.SqlServer.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.Owin.xml
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\obj\Debug\CRUDtest.csprojResolveAssemblyReference.cache
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\obj\Debug\CRUDtest.Properties.Resources.resources
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\obj\Debug\CRUDtest.csproj.GenerateResource.Cache
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\obj\Debug\CRUDtest.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\obj\Debug\CRUDtest.pdb
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Cors.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.Cors.dll
+C:\Users\Sandra\Documents\Projects\CRUDtest\CRUDtest\bin\System.Web.Http.Cors.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\ApplicationInsights.config
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\csc.exe
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\vbc.exe
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\VBCSCompiler.exe
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\CRUDtest.dll.config
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\CRUDtest.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\CRUDtest.pdb
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Antlr3.Runtime.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\EntityFramework.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\EntityFramework.SqlServer.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.Web.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Newtonsoft.Json.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Owin.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Net.Http.Formatting.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Cors.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Helpers.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.Cors.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.Owin.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.WebHost.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Mvc.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Optimization.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Razor.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.WebPages.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.WebPages.Razor.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\WebGrease.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.Web.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.Cors.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Newtonsoft.Json.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Net.Http.Formatting.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Helpers.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.WebHost.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Mvc.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Optimization.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Razor.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.WebPages.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.WebPages.Razor.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Antlr3.Runtime.pdb
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\EntityFramework.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\EntityFramework.SqlServer.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\bin\System.Web.Http.Owin.xml
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\obj\Debug\CRUDtest.csprojResolveAssemblyReference.cache
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\obj\Debug\CRUDtest.Properties.Resources.resources
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\obj\Debug\CRUDtest.csproj.GenerateResource.Cache
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\obj\Debug\CRUDtest.dll
+C:\Users\mclain\Documents\Visual Studio 2017\Projects\Seka\CRUDtest\obj\Debug\CRUDtest.pdb
